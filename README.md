@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvido para aprendizagem de Node.js</h3>
 
 <b><p align="left" font-weight="bold">OBJETIVOS:</p></b>
-<p align="left">Mostrar a evolução durante os meses em relação ao framework  Node.js. Sendo assim, viável para demonstrações de meu portfólio </p>
+<p align="left">Mostrar a evolução durante os meses em relação ao framework  Node.js. Sendo assim, viável para demonstrações do meu portfólio </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogox451&label=Profile%20views&color=0e75b6&style=flat" alt="diogox451" /> </p>
