@@ -42,9 +42,4 @@ app.listen(port, () => console.log("Rodando na porta 3333"));
 => Modificar usuario com .put
 => Remover usario (DELETE)
 
-
-
-
-
-
 */ 
